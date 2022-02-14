@@ -1,0 +1,24 @@
+[
+	{
+		"booking": "2021-12-31T00:00:00.000+0100",
+		"valuation": null,
+		"partnerName": "Trushin Artyom",
+		"partnerAccount": {
+			"iban": "CZ4508000000002763585093",
+			"bic": null,
+			"number": "2763585093",
+			"bankCode": "0800",
+			"countryCode": "CZ",
+			"prefix": "000000",
+			"secondaryId": null
+		},
+		"partnerAddress": null,
+		"partnerReference": null,
+		"partnerOriginator": null,
+		"amount": {
+			"value": 60000,
+			"precision": 2,
+			"currency": "CZK"
+		}
+	}
+]
